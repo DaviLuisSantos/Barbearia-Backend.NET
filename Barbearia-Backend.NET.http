@@ -1,0 +1,6 @@
+@Barbearia_Backend.NET_HostAddress = http://localhost:5298
+
+GET {{Barbearia_Backend.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
